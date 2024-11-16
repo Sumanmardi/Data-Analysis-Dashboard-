@@ -5,5 +5,13 @@ This project involves designing and developing an interactive **Power BI dashboa
 
 ## Dataset used 
  - <a href="https://github.com/Sumanmardi/Data-Analysis-Dashboard-/blob/main/Plant_DTS.xls"> Dataset</a>
-
+ 
+ ## Questions (KPIs)
+- Sales Performance & Trends
+- Regional Analysis
+- Product & Category Insights
+- Customer Demographics & Behavior
+- Sales Channel Performance
+- Profitability & Margins
+- Inventory & Supply Chain Insights
  
