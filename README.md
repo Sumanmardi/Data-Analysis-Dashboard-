@@ -14,4 +14,10 @@ This project involves designing and developing an interactive **Power BI dashboa
 - Sales Channel Performance
 - Profitability & Margins
 - Inventory & Supply Chain Insights
+
+ ## Dashboard
+ - <a href="https://github.com/Sumanmardi/Data-Analysis-Dashboard-/blob/main/Screenshot%202024-11-13%20181931.png"> view Dashboard</a>
+ - <a href="https://github.com/Sumanmardi/Data-Analysis-Dashboard-/blob/main/Screenshot%202024-11-13%20181952.png"> view Dashboard</a>
+ ## Process
+ 
  
